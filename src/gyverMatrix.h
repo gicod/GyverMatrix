@@ -10,5 +10,5 @@ void matrix_init()
 
 void matrix_routine()
 {
-    gyverMatrix_loop();
+    gyverMatrixEffect_routine();
 }
